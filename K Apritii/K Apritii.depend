@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1390044957 source:d:\cristi\programare\k apritii\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

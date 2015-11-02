@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1391850231 source:d:\cristi\programare\dame2\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

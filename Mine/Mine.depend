@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1372845954 source:e:\cristi\programare\mine\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<queue>
+

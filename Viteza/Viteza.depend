@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1388214860 source:d:\cristi\programare\viteza\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<queue>
+

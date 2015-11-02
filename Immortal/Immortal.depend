@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1381758467 source:d:\cristi\programare\immortal\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

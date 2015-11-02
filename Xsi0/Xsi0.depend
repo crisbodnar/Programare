@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444482853 source:d:\cristi\programare\xsi0\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstring>
+	<vector>
+

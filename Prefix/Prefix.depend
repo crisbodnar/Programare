@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1374919431 source:e:\cristi\programare\prefix\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+

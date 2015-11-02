@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1380623987 source:d:\cristi\programare\cerc\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+

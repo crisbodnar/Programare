@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1375923140 source:d:\cristi\programare\arie - pol conv\arie.in.c
+
+1375925391 source:d:\cristi\programare\arie - pol conv\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1380537082 source:d:\cristi\programare\iepuri\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

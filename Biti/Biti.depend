@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1375611712 source:e:\cristi\programare\biti\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

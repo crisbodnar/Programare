@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1375358139 source:e:\cristi\programare\banana\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<queue>
+

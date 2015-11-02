@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1372353179 source:e:\cristi\programare\grarb\grarb.in.c
+
+1372353751 source:e:\cristi\programare\grarb\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

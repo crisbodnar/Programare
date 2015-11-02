@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1388569323 source:d:\cristi\programare\subsir crescator maximal\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<queue>
+

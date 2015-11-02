@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1384252308 source:d:\cristi\programare\numere\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

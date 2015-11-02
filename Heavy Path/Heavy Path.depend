@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1374230523 source:e:\cristi\programare\heavy path\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

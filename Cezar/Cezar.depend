@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1379927796 source:d:\cristi\programare\cezar\cezar.in.c
+
+1380046692 source:d:\cristi\programare\cezar\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<queue>
+	<set>
+

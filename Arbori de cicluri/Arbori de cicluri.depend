@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1375466395 source:e:\cristi\programare\arbori de cicluri\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<algorithm>
+	<set>
+
